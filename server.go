@@ -1,12 +1,12 @@
 package main
 
 import (
-	"dev.apihash.com/huazi/message_service/handler"
-	"dev.apihash.com/huazi/message_service/lib"
-	"dev.apihash.com/huazi/message_service/utils"
 	"encoding/json"
 	"flag"
 	"github.com/gorilla/mux"
+	"github.com/shelmesky/message_service/handler"
+	"github.com/shelmesky/message_service/lib"
+	"github.com/shelmesky/message_service/utils"
 	"io/ioutil"
 	"log"
 	"net/http"

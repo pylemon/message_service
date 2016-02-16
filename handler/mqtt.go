@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/pquerna/ffjson/ffjson"
-	"dev.apihash.com/huazi/message_service/lib"
-	"dev.apihash.com/huazi/message_service/utils"
+	"github.com/shelmesky/message_service/lib"
+	"github.com/shelmesky/message_service/utils"
 	"github.com/yosssi/gmq/mqtt"
 	"github.com/yosssi/gmq/mqtt/client"
 )

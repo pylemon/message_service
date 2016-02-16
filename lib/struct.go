@@ -1,7 +1,7 @@
 package lib
 
 import (
-	"dev.apihash.com/huazi/message_service/sync"
+	"github.com/shelmesky/message_service/sync"
 )
 
 type PollMessage struct {
