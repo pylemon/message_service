@@ -1,7 +1,7 @@
 package lib
 
 import (
-	"github.com/shelmesky/message_service/sync"
+	"github.com/pylemon/message_service/sync"
 )
 
 type PollMessage struct {
